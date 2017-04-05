@@ -1,5 +1,5 @@
-REATE TABLE zahlungen (
-  kunde   VARCHAR(30),
+CREATE TABLE zahlungen (
+  kunde   VARCHAR(31),
   rechnnr INTEGER,
   rechdat DATE,
   betrag  NUMERIC(9,2),
